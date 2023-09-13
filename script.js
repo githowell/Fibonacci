@@ -1,6 +1,3 @@
-
-
-
 function generateFibonacci() {
     const numTerms = parseInt(document.getElementById("numTerms").value);
     if (isNaN(numTerms) || numTerms <= 0) {
