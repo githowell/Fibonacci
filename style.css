@@ -1,0 +1,27 @@
+body {
+    background-image: url("https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/001/106/524/datas/original.gif");
+    background-repeat: no-repeat;
+    background-attachment: none ;
+    background-size: cover;
+    text-align: center;
+    padding: 20px;
+    text-align: center;
+    color: rgb(254, 255, 209);
+    background-size: 100%;
+}
+
+.container {
+    margin: auto;
+    border: 5px solid #fcfcfc;
+    max-width: 800px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    background: #191a19b4;
+    margin-top: 50px;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.5);
+}
